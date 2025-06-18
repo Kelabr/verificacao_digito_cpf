@@ -8,7 +8,7 @@ Essa aplicação tem como foco introduzir uma validação prévia e mínima, vis
 
 Construir esse script em python devido a uma pauta que foi levantada sobre criptografia e validação de dados no curso de ciber segurança que estou fazendo. Percebi que algumas aplicações não tem o mínimo de validação, em questão ao CPF, para descobri se no mínimo ele realmente é válido. Pesquisei por dois minutos sobre "como verificar os dígitos verificadores de um cpf" e bum, estava lançada a ideia e depois de meia hora de código estava pronto o script
 ## Referencia
-Tive como referencia esse [post](https://www.campuscode.com.br/conteudos/o-calculo-do-digito-verificador-do-cpf-e-do-cnpj](https://www.campuscode.com.br/conteudos/o-calculo-do-digito-verificador-do-cpf-e-do-cnpj)) no site campuscode.com.br. Ele me deu o algoritmo/calculo para efetuar a verificação dos CPFs
+Tive como referencia esse [post](https://www.campuscode.com.br/conteudos/o-calculo-do-digito-verificador-do-cpf-e-do-cnpj](https://www.campuscode.com.br/conteudos/o-calculo-do-digito-verificador-do-cpf-e-do-cnpj) no site campuscode.com.br. Ele me deu o algoritmo/calculo para efetuar a verificação dos CPFs
 ## Instruções 
 - Versão do Python usado: `Python 3.13.4`
 - Substitua o valor da variável `cpf`  pelo valor do CPF que deseja verificar (sem pontos ou traços)
