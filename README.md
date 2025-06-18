@@ -1,4 +1,7 @@
 # Verificador de dígitos verificadores de CPF
+|![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
+| ------------------------------------------|-----------------------------------------|
+
 
 ## Descrição
 Essa aplicação tem como foco introduzir uma validação prévia e mínima, visando  verificar os dígitos verificadores de qualquer CPF.
